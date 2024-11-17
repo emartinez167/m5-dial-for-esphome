@@ -25,7 +25,7 @@ external_components:
   - source:
       type: git
       url: https://github.com/emartinez167/m5-dial-for-esphome/
-      ref: main
+      ref: Colours
     components: [shys_m5_dial]
 
 dashboard_import:
